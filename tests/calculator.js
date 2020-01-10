@@ -25,7 +25,7 @@ describe('Protractor Demo App', function() {
         //  toEqual('5'); // This is wrong!
 
 
-          browser.sleep(2000)
+          browser.sleep(3000)
        
 
     });
